@@ -1,6 +1,12 @@
 ordner hinzufügen + abwählen
 Zielverzeichnis bestimmen
 
-dateien in einer möglichst betriebsystemunabhänigen komprimierung komprimieren
+
+
+Packages:
+'
+go get -u github.com/klauspost/compress
+'
+datien in einer möglichst betriebsystemunabhänigen komprimierung komprimieren
 + evtl. verschlüsseln
 (Docker?)

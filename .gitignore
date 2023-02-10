@@ -15,6 +15,6 @@
 # vendor/
 
 #vscode
-.vscode
+.vscode/*
 #idea
 .idea
